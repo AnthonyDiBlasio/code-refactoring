@@ -22,3 +22,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ![img1](https://github.com/AnthonyDiBlasio/code-refactoring/blob/main/01-html-css-git-homework-demo.png)
+
