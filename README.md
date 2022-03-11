@@ -24,4 +24,4 @@ THEN I find a concise, descriptive title
 
 ![img1](https://github.com/AnthonyDiBlasio/code-refactoring/blob/main/01-html-css-git-homework-demo.png)
 
-![img2] (file:///C:/Users/antho/homework/code-refactoring/content/Develop/index.html)
+![img2] (:/Users/antho/homework/code-refactoring/content/Develop/index.html)
